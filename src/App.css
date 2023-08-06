@@ -13,11 +13,6 @@ input[type=number]::-webkit-inner-spin-button {
   aspect-ratio: 16/7;
 
 }
-.adRight {
-  width: 255px;
-  height: 17rem;
-  display: block !important;
-}
 .imgCard {
   display: flex;
   justify-content: center;
